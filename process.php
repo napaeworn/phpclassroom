@@ -1,13 +1,28 @@
 <?php
   
-  $username =  $_GET['data1'];
-  $password =  $_GET['data2'];
+  $d =  $_GET['score'];
 
-  if($username == "admin" && $password == "1234"){
-    echo "welcome to your account";
+  if($d >= 80){
+    echo "your grade is A";
+  }
+   else if ($d >= 75){
+    echo "your grade is B+";
+  }
+   else if ($d >= 70){
+    echo "your grade is B";
+  }
+   else if ($d >= 65){
+     echo "your grade is C+";   
+  }
+   else if ($d >= 60){
+     echo "your grade is C";   
+  }
+  else if ($d >= 55){
+     echo "your grade is D+";   
+  }
+  else if ($d >= 50){
+     echo "your grade is D";   
   }
   else {
-    echo "Username or Password was incorrect";
-  }
-
+     echo "sorry, you got grade F.";
 ?>
