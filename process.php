@@ -1,3 +1,4 @@
 <?php
-  echo $_GET['data'];
+  $result = $_GET['data'];
+  echo $result*$result;
 ?>
