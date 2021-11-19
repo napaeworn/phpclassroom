@@ -6,12 +6,9 @@
       <?php
         for($i=0;$i<100;$i++){
           echo"<tr>";
+            for($i=0;$i<6;$i++){
           echo"<td>corlum1</td>";
-          echo"<td>corlum2</td>";
-          echo"<td>corlum3</td>";
-          echo"<td>corlum4</td>";
-          echo"<td>corlum5</td>";
-          echo"<td>corlum6</td>";
+            }
           echo"</tr>";
         }
       ?>
