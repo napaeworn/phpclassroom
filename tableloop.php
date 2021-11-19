@@ -4,9 +4,14 @@
   <body>
     <table border = "1">
       <?php
-        for($i=0;$i<20;$i++){
+        for($i=0;$i<100;$i++){
           echo"<tr>";
-          echo"<td>corlum</td>";
+          echo"<td>corlum1</td>";
+          echo"<td>corlum2</td>";
+          echo"<td>corlum3</td>";
+          echo"<td>corlum4</td>";
+          echo"<td>corlum5</td>";
+          echo"<td>corlum6</td>";
           echo"</tr>";
         }
       ?>
