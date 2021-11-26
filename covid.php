@@ -1,7 +1,7 @@
 <?php
-  $jason = file_get_contents('https://covid19.ddc.moph.go.th/api/Cases/today-cases-all');
+  $json = file_get_contents('https://covid19.ddc.moph.go.th/api/Cases/today-cases-all');
   $data = json_decode($json);
-  echo"<pre>" ;
+  echo "<pre>";
   var_dump($data);
-  echo"</pre>";
+  echo "</pre>";
 ?>
