@@ -8,7 +8,7 @@
           echo"<tr>foreach ( $data[0] as $key => $val ){
     echo $key.":".$val."<br>";
   }</tr>";
-      for($i=0;$i<6;$i++){
+      for($i=0;$i<2;$i++){
           echo"<td>foreach ( $data[0] as $key => $val ){
     echo $key.":".$val."<br>";
   }</td>";
