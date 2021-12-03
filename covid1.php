@@ -1,5 +1,5 @@
 <?php
-  $json = file_get_contents("https://covid19.ddc.moph.go.th/api/Cases/today-cases-all%22);
+  $json = file_get_contents("https://covid19.ddc.moph.go.th/api/Cases/today-cases-all');
   $data = json_decode($json);
 
   echo "<table border='1'>";
