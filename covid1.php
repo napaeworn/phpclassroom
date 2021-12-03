@@ -5,11 +5,15 @@
   echo "<table border='1'>";
 
  foreach ( $data[0] as $key => $val ){
-   echo $key.":".$val."<br>";
-   echo "<tr>";
-   echo "<td>";
-   echo "</td>";
-   echo "</tr>";
+    echo "<tr>";
+    echo "<td>";
+    echo $val."<br>"; 
+    echo "</td>";
+    echo "<td>";
+    echo $key;
+    echo "</td>";
+    echo "</tr>";
   }
+
   echo "</table>";
 ?>
