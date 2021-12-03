@@ -4,16 +4,16 @@
 
   echo "<table border='1'>";
 
- foreach ( $data[0] as $key => $val ){
+ foreach ( $data[0] as $key => $val )
+ {
     echo "<tr>";
     echo "<td>";
-    echo $key."<br>"; 
+    echo  $key."<br>"; 
     echo "</td>";
     echo "<td>";
-    echo $val;
+    echo  $val;
     echo "</td>";
     echo "</tr>";
   }
-
   echo "</table>";
 ?>
