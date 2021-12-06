@@ -1,11 +1,6 @@
 <?php
- $json = file_get_contents("https://covid19.ddc.moph.go.th/api/Cases/today-cases-by-provinces");
+ $js = file_get_contents("https://covid19.ddc.moph.go.th/api/Cases/today-cases-all");
 
- echo $json;
+ echo $js;
 
- $data = json_decode($json);
- 
- echo "<pre>";
- var_dump($data);
- echo "</pre>";
 ?>
