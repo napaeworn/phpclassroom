@@ -13,6 +13,9 @@
         height: 60px;
         background-color: orange;
       }
+      . container{
+         width: 100%;
+      }
     </style>
     
   </head>
