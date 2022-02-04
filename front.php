@@ -2,12 +2,12 @@
   <head>
     <title>การกำหนดรูปแบบตัวอักษร</title>
     <style>
-     @front-face{
-       front-family : "myfront";
+     @font-face{
+       font-family : myFont;
        src : url(duck b.woff)
      }
       body{
-         front-family: "myfront";
+         font-family: myFont;
       }
     </style>
   </head>
