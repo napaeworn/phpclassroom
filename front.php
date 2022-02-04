@@ -4,11 +4,11 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(duck b .woff);
+        src: url(duck.woff);
       }
       @font-face{
         font-family: myFont2;
-        src: url(FC Galaxy Italic.woff);
+        src: url(Galaxy.woff);
       }
       #font1{
         font-family: myFont;
