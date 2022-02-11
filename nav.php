@@ -3,12 +3,13 @@
     <title>Navigation Bar</title>
     <style>
       ul {
-        list-style-type:none;
+        list-style-type:horizontal;
       }
       li a {
         display : block;
+        color: white;
         padding: 8px 16px;
-        text- decoration:none;
+        text-decoration:none;
         background-color: green;
       }
       li a:hover {
