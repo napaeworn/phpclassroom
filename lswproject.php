@@ -17,9 +17,8 @@
         background-color : #CCFFFF ;
       }
       #header{
-        height: 160px;
-        background-image:url("p.jpg");
-        background-size: 100%;
+        background-color: #f1f1f1;
+        padding: 0px;
       }
       #sidebar{
         height: 450px;
