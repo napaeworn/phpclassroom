@@ -89,10 +89,10 @@
             • ต้นไม้   ทองกวาว<br>
             • ดอกไม้  ทองกวาว<br>
             
-            <img src="tong.jpg" width = "150px" class="img-fluid rounded"><br>
+            <img src="tong.jpg" width = "300px" class="img-fluid rounded"><br>
  
             • สัตว์น้ำ  ปลากา<br>
-            <img src="pen.jpg" width = "150px" class="img-fluid rounded"><br>
+            <img src="pen.jpg" width = "300px" class="img-fluid rounded"><br>
  
           </center>
           ศาลากลางจังหวัด<br>
