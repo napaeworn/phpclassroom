@@ -18,7 +18,7 @@
       }
       #header{
         height: 160px;
-        padding: 30px;
+        padding: 50px;
         background-image: url("p.jpg");
         background-size:100%;
       }
