@@ -27,6 +27,7 @@
       }
       #content{
         height: 450px;
+        padding: 10px;
         background-color: gray;
       }
       #footer{
