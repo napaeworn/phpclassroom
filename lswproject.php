@@ -31,7 +31,7 @@
         background-color: gray;
       }
       #footer{
-        padding: 40px;
+        padding: 30px;
         height: 200px;
         background-color: pink;
       }
