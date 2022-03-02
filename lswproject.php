@@ -27,7 +27,7 @@
         padding: 0px;
       }
       #content{
-        height: 450px;
+        height: 600px;
         padding: 10px;
         background-color: #616D7E;
       }
