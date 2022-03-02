@@ -71,10 +71,10 @@
         <div class="col-3" id="sidebar"> 
           <ul>
             <li><a href="lswproject.php">หน้าแรก</a></li>
-            <li><a href="#">แหล่งท่องเที่ยว</a></li>
-            <li><a href="#">ประเพณีและวัฒนธรรม</a></li>
-            <li><a href="#">อาหารประจำท้องถิ่น</a></li>
-            <li><a href="#">ข้อมูลผู้จัดทำ</a></li>
+            <li><a href="location.php">แหล่งท่องเที่ยว</a></li>
+            <li><a href="custom.php">ประเพณีและวัฒนธรรม</a></li>
+            <li><a href="food.php">อาหารประจำท้องถิ่น</a></li>
+            <li><a href="owner.php">ข้อมูลผู้จัดทำ</a></li>
           </ul>
         </div>
         <div class="col-9" id="content"> 
