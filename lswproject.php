@@ -17,14 +17,13 @@
         background-color : #CCFFFF ;
       }
       #header{
-        background-color: #f1f1f1;
-        padding: 0px;
+        height: 160px;
+        background-image: url("p.jpg");
+        background-size:100%;
       }
       #sidebar{
-        height: 450px;
-        width: 150 px ;
-        padding: 0 px;
-        background-color: green;
+        background-color: #f1f1f1;
+        padding: 0px;
       }
       #content{
         height: 450px;
