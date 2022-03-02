@@ -23,13 +23,13 @@
         background-size:100%;
       }
       #sidebar{
-        background-color: #f1f1f1;
+        background-color: #C9BE62;
         padding: 0px;
       }
       #content{
         height: 450px;
         padding: 10px;
-        background-color: #ADDFFF;
+        background-color: #827839;
       }
       #footer{
         padding: 30px;
