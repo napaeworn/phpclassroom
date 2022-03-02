@@ -87,14 +87,14 @@
           <h4>สัญลักษณ์ประจำจังหวัด</h4><br>
           <center>
             <h5>• ต้นไม้   ทองกวาว</h5><br>
-            <img src="tong.jpg" width = "300px" class="img-fluid rounded"><br><br>
+            <img src="tong.jpg" width = "600px" class="img-fluid rounded"><br><br>
             
             <h5>• ดอกไม้  ทองกวาว</h5><br>
             
-            <img src="meaw.jpg" width = "300px" class="img-fluid rounded"><br><br>
+            <img src="meaw.jpg" width = "600px" class="img-fluid rounded"><br><br>
             
             <h5>• สัตว์น้ำ  ปลากา</h5><br>
-            <img src="pen.jpg" width = "300px" class="img-fluid rounded"><br><br>
+            <img src="pen.jpg" width = "600px" class="img-fluid rounded"><br><br>
             
           </center>
           ศาลากลางจังหวัด<br>
