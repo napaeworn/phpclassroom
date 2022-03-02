@@ -88,9 +88,8 @@
           <center>
             สัญลักษณ์ประจำจังหวัด<br>
             • ต้นไม้   ทองกวาว<br>
-            <img src="tong.ipg" class="img-fluid rounded">
             • ดอกไม้  ทองกวาว<br>
-            
+            <img src="tong.ipg" class="img-fluid rounded"><br>
             • สัตว์น้ำ  ปลากา<br>
             
           </center>
