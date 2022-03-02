@@ -14,7 +14,7 @@
         background-color: orange;
       }
       #sidebar{
-        height: 450px;
+        height: 350px;
         background-color: green;
       }
       #content{
