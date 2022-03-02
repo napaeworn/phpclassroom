@@ -29,7 +29,7 @@
       #content{
         height: 450px;
         padding: 10px;
-        background-color: #565051;
+        background-color: #ฺBDEDFF;
       }
       #footer{
         padding: 30px;
