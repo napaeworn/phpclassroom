@@ -70,15 +70,15 @@
       <div class="row">
         <div class="col-3" id="sidebar"> 
           <ul>
-            <li><a href="index.php">หน้าแรก</a></li>
-            <li><a href="#">แหล่งท่องเที่ยว</a></li>
+            <li><a href="lswproject.php">หน้าแรก</a></li>
+            <li><a href="location.php">แหล่งท่องเที่ยว</a></li>
             <li><a href="#">ประเพณีและวัฒนธรรม</a></li>
             <li><a href="#">อาหารประจำท้องถิ่น</a></li>
             <li><a href="#">ข้อมูลผู้จัดทำ</a></li>
           </ul>
         </div>
         <div class="col-9" id="content"> 
-          <h1>Content</h1>
+          <h1>321</h1>
         </div>
       </div>
        <div class="row">
