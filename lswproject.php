@@ -24,7 +24,7 @@
       #sidebar{
         height: 450px;
         width: 150 px ;
-        padding: 0px;
+        padding: 0 px;
         background-color: green;
       }
       #content{
