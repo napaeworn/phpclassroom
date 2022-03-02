@@ -78,7 +78,8 @@
           </ul>
         </div>
         <div class="col-9" id="content"> 
-          <h1>321</h1>
+          <b><h4>ข้อมูลของผู้จัดทำ</h4></b>
+          
         </div>
       </div>
        <div class="row">
