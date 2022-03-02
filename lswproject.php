@@ -94,7 +94,8 @@
             <img src="meaw.jpg" width = "300px" class="img-fluid rounded"><br><br>
             
             <h5>• สัตว์น้ำ  ปลากา</h5><br>
-            <img src="pen.jpg" width = "300px" class="img-fluid rounded"><br>
+            <img src="pen.jpg" width = "300px" class="img-fluid rounded"><br><br>
+            
           </center>
           ศาลากลางจังหวัด<br>
           • ที่ตั้ง ภายในศูนย์ราชการจังหวัดเชียงใหม่ ถนนโชตนา ตำบลช้างเผือก อำเภอเมืองเชียงใหม่ จังหวัดเชียงใหม่ 50300<br>
