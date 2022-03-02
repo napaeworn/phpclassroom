@@ -19,7 +19,7 @@
       #header{
         height: 160px;
         background-image:url("p.jpg");
-        background-size: 20%;
+        background-size: 40%;
       }
       #sidebar{
         height: 450px;
