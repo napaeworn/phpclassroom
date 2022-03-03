@@ -79,8 +79,12 @@
         </div>
         <div class="col-9" id="content"> 
           <b><h4>ข้อมูลของผู้จัดทำ</h4></b><br>
-          <img src="poon.jpg" width = "350px"stlye="foat:left" class="img-fluid rounded"><right>ชื่อ: นายกิตตินันท์ วัฒนะจิตพงศ์</right><br>Lbr>
-         <right>เลขที่ : 1</right><br><br><right>ชั้นมัธยมศึกษาปีที่ 5/13 </right><br><br>
+          <img src="poon.jpg" width = "350px"stlye="foat:left" class="img-fluid rounded">
+          <right>
+            <b>ชื่อ:</b> นายกิตตินันท์ วัฒนะจิตพงศ์<br>Lbr>
+            <b>เลขที่ :</b> 1 <br><br>
+            <b>ชั้นมัธยมศึกษาปีที่:</b> 5/13<br><br>
+          </right>
         </div>
       </div>
        <div class="row">
