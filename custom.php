@@ -65,7 +65,7 @@
     <div class="container"> 
       <div class="row">
         <div class="col-12" id="header">
-          <h1>จังหวัดเชียงใหม่</h1>
+          <center><h1>จังหวัดเชียงใหม่</h1></center>
         </div>
       </div>
       <div class="row">
