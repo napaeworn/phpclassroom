@@ -18,6 +18,7 @@
       }
       #header{
         height: 160px;
+        padding: 50px;
         background-image: url("p.jpg");
         background-size:100%;
       }
@@ -64,7 +65,7 @@
     <div class="container"> 
       <div class="row">
         <div class="col-12" id="header">
-          <b><h1>จังหวัดเชียงใหม่</h1></b>
+          <center><b><h1>จังหวัดเชียงใหม่</h1></b></center>
         </div>
       </div>
       <div class="row">
