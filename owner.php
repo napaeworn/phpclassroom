@@ -80,10 +80,30 @@
         </div>
         <div class="col-9" id="content"> 
           <b><h4>ข้อมูลของผู้จัดทำ</h4></b><br>
-          <img src="poon.jpg" width = "350px"stlye="foat:left" class="img-fluid rounded">
           <center>
+            <img src="poon.jpg" width = "350px" class="img-fluid rounded">
             <b>ชื่อ:</b> นายกิตตินันท์ วัฒนะจิตพงศ์<br><br>
             <b>เลขที่ :</b> 1 <br><br>
+            <b>ชั้นมัธยมศึกษาปีที่:</b> 5/13<br><br>
+            <img src="peem.jpg" width = "350px" class="img-fluid rounded">
+            <b>ชื่อ:</b> นายณปวร แก้วโชติ<br><br>
+            <b>เลขที่ :</b> 2 <br><br>
+            <b>ชั้นมัธยมศึกษาปีที่:</b> 5/13<br><br>
+            <img src="nan.jpg" width = "350px" class="img-fluid rounded">
+            <b>ชื่อ:</b> นายรฐนนท์ พาอุ่นใจ<br><br>
+            <b>เลขที่ :</b> 3 <br><br>
+            <b>ชั้นมัธยมศึกษาปีที่:</b> 5/13<br><br>
+            <img src="ey.jpg" width = "350px" class="img-fluid rounded">
+            <b>ชื่อ:</b> นายธีร์ธวัช ศรีบุญ<br><br>
+            <b>เลขที่ :</b> 5 <br><br>
+            <b>ชั้นมัธยมศึกษาปีที่:</b> 5/13<br><br>
+            <img src="mint.jpg" width = "350px" class="img-fluid rounded">
+            <b>ชื่อ:</b> นางสาวกนกกช ดอกหอม<br><br>
+            <b>เลขที่ :</b> 13 <br><br>
+            <b>ชั้นมัธยมศึกษาปีที่:</b> 5/13<br><br>
+            <img src="nid.jpg" width = "350px" class="img-fluid rounded">
+            <b>ชื่อ:</b> นางสาวเนตรทราย พักใส<br><br>
+            <b>เลขที่ :</b> 15 <br><br>
             <b>ชั้นมัธยมศึกษาปีที่:</b> 5/13<br><br>
           </center>
         </div>
