@@ -82,7 +82,7 @@
           <b><h4>ข้อมูลของผู้จัดทำ</h4></b><br>
           <img src="poon.jpg" width = "350px"stlye="foat:left" class="img-fluid rounded">
           <right>
-            <b>ชื่อ:</b> นายกิตตินันท์ วัฒนะจิตพงศ์<br>Lbr>
+            <b>ชื่อ:</b> นายกิตตินันท์ วัฒนะจิตพงศ์<br><br>
             <b>เลขที่ :</b> 1 <br><br>
             <b>ชั้นมัธยมศึกษาปีที่:</b> 5/13<br><br>
           </right>
