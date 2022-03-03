@@ -97,7 +97,7 @@
             <img src="rom.jpg" width = "360px" class="img-fluid rounded"><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>•มหกรรมไม้ดอกไม้ประดับ</b> โด่งดังมาจากการจัดงานมหกรรมพืชสวนโลกเฉลิมพระเกียรติฯ งานเทศกาลชมสวน หรือ Flora Festival นี้จะจัดขึ้นในช่วงเดือนธันวาคมถึงกุมภาพันธ์ มีการจัดแสดงสวนสวยในรูปแบบต่างๆ ที่ตกแต่งด้วยไม้ประดับและดอกไม้เมืองหนาวนานาพรรณจากโครงการหลวงกว่า 20 โครงการ ที่มีชื่อเสียงที่สุดคืออุทยานกล้วยไม้และอุโมงค์ดอกไม้ที่เป็นจุดถ่ายภาพยอดนิยมของนักท่องเที่ยวส่วนใหญ่<br>
           <center>
-            <img src="dokmai.jpg" width = "360px" class="img-fluid rounded"><br>
+            <img src="donmai.jpg" width = "360px" class="img-fluid rounded"><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>•งานไม้แกะสลักบ้านถวาย</b> จัดขึ้นในเดือนมกราคม ที่หมู่บ้านถวาย อำเภอหางดง มีการจำหน่ายและสาธิตการแกะสลักไม้ และหัตถกรรมพื้นบ้าน<br>
           <center>
             <img src="carpenter.jpg" width = "360px" class="img-fluid rounded"><br>
