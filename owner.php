@@ -78,8 +78,11 @@
           </ul>
         </div>
         <div class="col-9" id="content"> 
-          <b><h4>ข้อมูลของผู้จัดทำ</h4></b>
-          <img src="poon.jpg" width = "350px"stlye="foat:left" class="img-fluid rounded"><br><br>
+          <b><h4>ข้อมูลของผู้จัดทำ</h4></b><br>
+          <img src="poon.jpg" width = "350px"stlye="foat:left" class="img-fluid rounded">
+          <right>
+            ชื่อ: นายกิตตินันท์ วัฒนะจิตพงศ์
+          </right>
         </div>
       </div>
        <div class="row">
