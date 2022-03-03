@@ -78,7 +78,8 @@
           </ul>
         </div>
         <div class="col-9" id="content"> 
-          <h1>321</h1>
+          <h1>รอน้องปูนทำงานก่อนนะครับ</h1>
+          <center><h1>cumming(come) soon </h1></center>
         </div>
       </div>
        <div class="row">
